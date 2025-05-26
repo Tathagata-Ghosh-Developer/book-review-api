@@ -1,0 +1,235 @@
+{
+  message: 'Server running on port 3000 in undefined mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 22:58:39'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:28:39.443Z"}
+{
+  message: 'Server running on port 3000 in undefined mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 22:58:54'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:28:54.184Z"}
+{
+  message: 'Server running on port 3000 in undefined mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 22:59:21'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:29:21.242Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:33:58.501Z"}
+{"level":"info","message":"POST /api/auth/signup?username=johndoe&password=password123 - ::1","service":"book-review-api","timestamp":"2025-05-26T17:35:23.976Z"}
+{"level":"info","message":"POST /api/auth/signup?username=johndoe&password=password123 - ::1","service":"book-review-api","timestamp":"2025-05-26T17:35:26.372Z"}
+{"level":"info","message":"POST /api/auth/signup?username=johndoe&password=password123 - ::1","service":"book-review-api","timestamp":"2025-05-26T17:35:28.492Z"}
+{"level":"info","message":"POST /api/auth/signup?username=johndoe&password=password123&email=jd@gmail.com - ::1","service":"book-review-api","timestamp":"2025-05-26T17:35:51.106Z"}
+{"level":"info","message":"POST /api/auth/signup?username=johndoe&password=password123&email=jd@gmail.com - ::1","service":"book-review-api","timestamp":"2025-05-26T17:35:52.712Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:37:20.403Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:37:22.098Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:37:23.437Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:37:48.505Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:37:49.565Z"}
+{"level":"info","message":"POST /api/auth/signup?username=johndoe&password=password123&email=jd@gmail.com - ::1","service":"book-review-api","timestamp":"2025-05-26T17:38:47.145Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:41:43.860Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:42:33.113Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:42:40.457Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:43:09.235Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:43:10.663Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:43:16.091Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:43:21.744Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:43:59.657Z"}
+{
+  message: 'Server running on port 3000 in undefined mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 23:14:22'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:44:22.398Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:44:31.378Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:44:36.341Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:44:42.606Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:44:49.620Z"}
+{
+  message: 'Server running on port 3000 in undefined mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 23:16:10'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:46:10.452Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:46:15.672Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:46:23.509Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 23:20:44'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:50:44.675Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:50:49.552Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T17:52:28.796Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T17:53:22.194Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T17:56:14.725Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T17:57:50.636Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 23:29:11'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T17:59:11.212Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T17:59:15.960Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T18:00:01.896Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 23:30:11'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T18:00:11.554Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T18:00:15.129Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T18:01:00.148Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T18:01:06.093Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T18:01:16.653Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T18:02:04.425Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T18:02:28.648Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-26 23:34:08'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T18:04:08.302Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T18:04:12.181Z"}
+{"level":"info","message":"GET /api/books?page=1&limit=10&author=Fitzgerald&sortBy=averageRating&sortOrder=desc - ::1","service":"book-review-api","timestamp":"2025-05-26T18:04:57.985Z"}
+{"level":"info","message":"GET /api/reviews/books/6834ad1c1b9625abd5873b8b/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T18:07:46.344Z"}
+{"level":"info","message":"POST /api/reviews/books/6834ad1c1b9625abd5873b8b/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T18:07:54.463Z"}
+{"level":"info","message":"POST /api/reviews/books/6834ad1c1b9625abd5873b8b/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T18:07:55.963Z"}
+{"level":"info","message":"POST /api/reviews/books/6834ad1c1b9625abd5873b8b/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T18:08:07.127Z"}
+{"level":"info","message":"GET /api/books?page=1&limit=10&author=Fitzgerald&sortBy=averageRating&sortOrder=desc - ::1","service":"book-review-api","timestamp":"2025-05-26T18:09:39.871Z"}
+{"level":"info","message":"GET /api/search?q=gatsby&page=1&limit=5 - ::1","service":"book-review-api","timestamp":"2025-05-26T18:11:28.945Z"}
+{"level":"info","message":"POST /api/reviews/books/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T18:12:58.480Z"}
+{"level":"info","message":"POST /api/books/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T18:13:39.753Z"}
+{"level":"info","message":"POST /api/books/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T18:13:41.063Z"}
+{"level":"info","message":"POST /api/books?page=1&limit=10&author=Fitzgerald&sortBy=averageRating&sortOrder=desc - ::1","service":"book-review-api","timestamp":"2025-05-26T18:14:07.476Z"}
+{"level":"info","message":"GET /api/books?page=1&limit=10&author=Fitzgerald&sortBy=averageRating&sortOrder=desc - ::1","service":"book-review-api","timestamp":"2025-05-26T18:14:13.104Z"}
+{"level":"info","message":"GET /api/books/6834ad1c1b9625abd5873b8b/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T18:14:25.555Z"}
+{"level":"info","message":"GET /api/books/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T18:14:28.826Z"}
+{"level":"info","message":"GET /api/books/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T18:14:35.961Z"}
+{"level":"info","message":"GET /api/books/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T18:14:54.027Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:28:44'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T18:58:44.143Z"}
+{"level":"info","message":"GET /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:00:42.770Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:00:50.504Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:01:01.983Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:02:50.909Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:33:44'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:03:44.865Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:03:48.424Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:34:43'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:04:43.055Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:04:46.640Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:35:46'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:05:46.264Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:05:51.335Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:36:10'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:06:10.453Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:06:16.843Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:37:32'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:07:33.021Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:07:35.394Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:07:41.084Z"}
+{"level":"info","message":"POST /api/reviews/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T19:08:54.840Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:39:26'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:09:26.274Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:39:45'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:09:45.764Z"}
+{"level":"info","message":"GET /api/reviews/6834ad1c1b9625abd5873b8b - ::1","service":"book-review-api","timestamp":"2025-05-26T19:09:54.294Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 00:49:33'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:19:33.963Z"}
+{"level":"info","message":"POST //api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T19:20:35.332Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T19:20:41.046Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T19:20:51.180Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T19:21:31.055Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T19:22:57.503Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T19:23:05.473Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 01:17:02'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T19:47:02.074Z"}
+{"level":"info","message":"POST /api/auth/signup - ::1","service":"book-review-api","timestamp":"2025-05-26T19:51:39.936Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T19:53:48.354Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T19:54:11.753Z"}
+{"level":"info","message":"POST /api/auth/login - ::1","service":"book-review-api","timestamp":"2025-05-26T19:54:20.081Z"}
+{"level":"info","message":"POST /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T19:55:12.070Z"}
+{"level":"info","message":"GET /api/books - ::1","service":"book-review-api","timestamp":"2025-05-26T19:56:13.447Z"}
+{"level":"info","message":"GET /api/books/6834c720925e3f5bf689296c - ::1","service":"book-review-api","timestamp":"2025-05-26T19:56:58.532Z"}
+{"level":"info","message":"GET /api/books/search?q=gatsby&page=1&limit=10 - ::1","service":"book-review-api","timestamp":"2025-05-26T19:57:13.869Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T19:59:58.052Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T20:00:57.023Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 01:32:02'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T20:02:02.791Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T20:02:14.074Z"}
+{
+  message: 'Server running on port 3000 in development mode',
+  level: 'info',
+  service: 'book-review-api',
+  timestamp: '2025-05-27 01:33:14'
+}
+{"level":"info","message":"Connected to MongoDB","service":"book-review-api","timestamp":"2025-05-26T20:03:14.345Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T20:03:27.110Z"}
+{"level":"info","message":"POST /api/reviews - ::1","service":"book-review-api","timestamp":"2025-05-26T20:03:42.403Z"}
+{"level":"info","message":"GET /api/reviews/6834c720925e3f5bf689296c - ::1","service":"book-review-api","timestamp":"2025-05-26T20:04:29.591Z"}
